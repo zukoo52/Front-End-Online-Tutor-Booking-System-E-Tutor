@@ -64,5 +64,5 @@ npm run dev
 ## **👥 Group Contribution & My Role**  
 This project was developed as part of a group effort. My contribution focused on designing and implementing the **Home Page, Header, and Footer** to ensure a visually appealing and user-friendly interface.  
 
-🔗 **[Visit the Repository](https://github.com/zukoo52/Front-End-Online-Tutor-Booking-System-E-Tutor.git)**  
+🔗 **[Visit the Repository] (https://github.com/zukoo52/Front-End-Online-Tutor-Booking-System-E-Tutor.git)**  
 

@@ -1,5 +1,5 @@
 
-# **📚 Online Tutor Booking System - E-Tutor** 🎓  
+# **📚 Online Tutor Booking System - [FRONT END] E-Tutor** 🎓  
 
 An advanced **Vue.js-powered** online platform that connects students with tutors, allowing seamless scheduling, bidding, and interactive learning experiences. This system provides a streamlined way for students to find qualified tutors and for teachers to bid on tutoring requests.  
 
